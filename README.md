@@ -7,3 +7,9 @@ Demo link: https://frontend-clones.netlify.app/spotify.html
 
 2. Google
 Demo link: https://frontend-clones.netlify.app/google.html
+
+3. Twitter tweet modal
+Demo link: https://frontend-clones.netlify.app/twitter.html
+
+4. Generic looking landing page
+Demo link: https://frontend-clones.netlify.app/landing.html
