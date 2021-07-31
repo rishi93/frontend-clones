@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./build/tailwind.css">
+    <title>Twitter clone</title>
+</head>
+<body style="background: #15202b;">
+    <div class="h-screen flex items-center justify-center">
+        <!-- Modal screen -->
+        <div class="w-3/4 rounded-lg shadow-lg bg-blue-900">
+            <!-- Header -->
+            <div class="border-b border-blue-400 text-blue-400">
+                <div class="p-4">X</div>
+            </div>
+
+            <!-- Body -->
+            <div class="p-4 pl-20 relative">
+                <img src="http://placekitten.com/g/50/50" alt="picture of kitten" class="absolute top-0 left-0 mt-4 ml-4 rounded-full">
+                <textarea class="bg-transparent w-full pt-4 outline-none text-lg text-white" placeholder="What's happening" rows="5"></textarea>
+            </div>
+
+            <!-- Footer -->
+            <div class="p-5 flex justify-between">
+                <div class="flex items-center">
+                    <div><button class="mr-2 rounded-full bg-yellow-500 py-2 px-4 text-white">Like</button></div>
+                    <div><button class="mr-2 rounded-full bg-yellow-500 py-2 px-4 text-white">Share</button></div>
+                </div>
+
+                <div class="flex items-center">
+                    <button class="rounded-full bg-blue-500 py-2 px-4 text-blue-100">Tweet</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
