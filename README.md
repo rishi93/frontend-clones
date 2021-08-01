@@ -13,3 +13,6 @@ Demo link: https://frontend-clones.netlify.app/twitter.html
 
 4. Generic looking landing page
 Demo link: https://frontend-clones.netlify.app/landing.html
+
+5. Generic components
+Demo link: https://frontend-clones.netlify.app/components.html
